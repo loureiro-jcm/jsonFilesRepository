@@ -1,8 +1,8 @@
 
 [
-  "Portugal",
-  "Espanha",
-  "França",
-  "Alemanha",
-  "Itália"
+  { "country": "Portugal" },
+  { "country": "Espanha" },
+  { "country": "França" },
+  { "country": "Alemanha" },
+  { "country": "Itália" }
 ]

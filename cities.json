@@ -2,13 +2,10 @@
 [
   { "city": "Lisboa", "country": "Portugal" },
   { "city": "Porto", "country": "Portugal" },
-
   { "city": "Madrid", "country": "Espanha" },
   { "city": "Barcelona", "country": "Espanha" },
-
   { "city": "Paris", "country": "França" },
   { "city": "Lyon", "country": "França" },
-
   { "city": "Berlim", "country": "Alemanha" },
   { "city": "Munique", "country": "Alemanha" }
 ]
